@@ -12,6 +12,13 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
+	
+	 @Test
+	  public void TitlePresent()
+	   {
+	        assertTrue( true );
+	   }
+	 
     @Test
     public void shouldAnswerWithTrue()
     {
